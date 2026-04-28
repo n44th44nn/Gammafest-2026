@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+*.csv
+*.json
+*.dat
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python & Environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Machine Learning Saved Models
+*.pkl
+*.joblib
